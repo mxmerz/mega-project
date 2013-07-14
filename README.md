@@ -23,7 +23,7 @@ Numbers
 
 **Find PI to the Nth Digit** – Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
-**Fibonacci Sequence** – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+[**Fibonacci Sequence**](https://github.com/mxmerz/mega-project/blob/master/Numbers/fibonacci.erl) – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
 **Prime Factorization** – Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
@@ -35,7 +35,7 @@ Numbers
 
 **Change Return Program** – The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
-**Binary to Decimal and Back Converter** – Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
+[**Binary to Decimal and Back Converter**](https://github.com/mxmerz/mega-project/blob/master/Numbers/bin_dec.erl) – Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 
 **Calculator** – A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
